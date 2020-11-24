@@ -1,0 +1,45 @@
+.a1{
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background: linear-gradient(rgb(250, 186, 9), rgb(189, 125, 6));
+    /* padding-left: 200px;
+    padding-right: 200px; */
+}
+.a2{
+    width: 90%;
+    height: 100px;
+    text-align: center;
+    background-color:white !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+.a3{
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    align-self: center;
+}
+.a4{
+    background-color:rgba(255,255,255,0.8)!important;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 400px;
+    text-align: center;
+    margin-top: 50px;
+}
+.a5{
+    background-color:rgba(255,255,255,0.8)!important;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: auto;
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.a6{
+    border-radius: 30px;
+}
