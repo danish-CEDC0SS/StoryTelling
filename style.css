@@ -43,3 +43,15 @@
 .a6{
     border-radius: 30px;
 }
+
+
+ /* for making input type only number */
+ input[type=number]::-webkit-inner-spin-button,
+ input[type=number]::-webkit-outer-spin-button {
+     -webkit-appearance: none;
+     margin: 0;
+ }
+  /* for mozzila */
+ input[type=number] {
+     -moz-appearance: textfield;
+ } 
